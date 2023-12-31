@@ -1,4 +1,4 @@
-<a href="" target="_blank" rel="noopener"><p align="center"> <img src="https://i.ibb.co/YRfF1JQ/git-hub-banner.gif" alt="mamun" /> </a>
+<div class='100'><a href="" target="_blank" rel="noopener"><p align="center"> <img src="https://i.ibb.co/YRfF1JQ/git-hub-banner.gif" alt="mamun" /> </a></div>
 
 <h1 align="center">Welcome to My Profile.<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>
 <br />
