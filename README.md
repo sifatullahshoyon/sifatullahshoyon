@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/sifatullahshoyon/" target="_blank" rel="noopener"><p align="center"> <img src="https://i.ibb.co/YRfF1JQ/git-hub-banner.gif" alt="sifat" /> </a>
+<a href="https://www.linkedin.com/in/sifatullahshoyon/" target="_blank" rel="noopener"><p align="center"> <img src="https://i.ibb.co/YRfF1JQ/git-hub-banner.gif" alt="sifat" /> width="100"> </a>
 
 <h1 align="center">Welcome to My Profile.<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>
 <br />
@@ -6,9 +6,7 @@
 
 ### [![Github](https://img.shields.io/github/followers/progmamun?label=Follow&style=social)](https://github.com/progmamun)&nbsp;![Profile views](https://komarev.com/ghpvc/?username=progmamun&color=228B22)
 
-|                                                                 Daily.dev                                                                  |            [![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/15274012/al-mamun-khan)            |
-| :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <p align="center"><img src="https://github.com/progmamun/progmamun/blob/main/devcard.svg" width="200" alt="Al Mamun Khan's Dev Card"/></p> | [![Al-Mamun-khan-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15274012)](https://stackoverflow.com/users/15274012/al-mamun-khan) |
+
 
 #### 🌱 I’m currently learning [AWS](https://aws.amazon.com/) And [DevOps](https://www.google.com/search?q=DevOps).
 
