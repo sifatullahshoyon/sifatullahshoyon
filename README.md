@@ -1,4 +1,4 @@
- <img src="https://i.ibb.co/YRfF1JQ/git-hub-banner.gif" alt="sifat" width="100"  class='object-fit'/>
+ <img src="https://i.ibb.co/BwPmLpj/github-header-image.pngf" alt="sifat"/>
 
 <h1 align="center">Welcome to My Profile.<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>
 <br />
