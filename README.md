@@ -1,63 +1,91 @@
- <img src="https://i.ibb.co/BwPmLpj/github-header-image.pngf" alt="sifat"/>
-
-<h1 align="center">Welcome to My Profile.<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>
-<br />
-<br />
-
-### [![Github](https://img.shields.io/github/followers/progmamun?label=Follow&style=social)](https://github.com/progmamun)&nbsp;![Profile views](https://komarev.com/ghpvc/?username=progmamun&color=228B22)
 
 
+<div align="center">
+ 
+ 
+<img width="100%" height="400" src="https://s9.gifyu.com/images/SZ3xM.gif" alt="cover" />
+</div>
+<br>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=sifatullahshoyon&label=Profile%20views&color=0e75b6&style=flat" alt="sifatullahshoyon" /> </span> 
+<br>
+<h4><span>Github Badges</span> <img width='20' align='center' src='https://cliply.co/wp-content/uploads/2021/02/392102940_MEDAL_3D_400px.gif' ></h4>
 
-#### 🌱 I’m currently learning [AWS](https://aws.amazon.com/) And [DevOps](https://www.google.com/search?q=DevOps).
+<p><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> </>
 
-#### :muscle: Things I am challenging myself with:
+<br>
 
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Sifat</h1>  
+<h3 align="center">A passionate front end developer from 🇧🇩</h3>  
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=sifatullahshoyon" alt="sifatullahshoyon" /></p>
 
-<br />
+<br>
 
-## :computer: Operating System: ![Ubuntu](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center"> <a href="https://github.com/sifatullahshoyon/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifatullahshoyon&row=1&column=6&theme=onedark" alt="sifatullahshoyon" /></a> </p>
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>&nbsp;Technologies that I know:</h2>
+<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+<img width="55%" height=''400'' align="right" alt="Github" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" />
 
-<br/>
+- 🔭 I’m currently working on [global speak school](http://localhost:5173/)
 
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="25"/> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/> 
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" height="25"/><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" height="25"/> 
+- 🌱 I’m currently learning **Next js**
+
+- 👨‍💻 All of my projects are available at [http://sifat.me/](http://sifat.me/)
+
+- 📝 I regularly write articles on [https://www.facebook.com/SifatUllahShoyon](https://www.facebook.com/SifatUllahShoyon)
+
+- 💬 Ask me about **web development**
+
+- 📫 How to reach me **freelancersifat627@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/sifatullahshoyon/](https://www.linkedin.com/in/sifatullahshoyon/)
+
+- ⚡ Fun fact **I love learning and teaching new technologies.**
+
+<br>
+  
+<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<p align="left">
+<a href="https://codepen.io/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://dev.to/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://codesandbox.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://fb.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://instagram.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://dribbble.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://www.behance.net/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://discord.gg/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
 </p>
 
-<br/>
+<br> 
+  
+<h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> 
 
-### Others Language:
+  <br>
+  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" height="25"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
+![Metrics](https://metrics.lecoq.io/sifatullahshoyon?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
+<br>
 
 ## :man_technologist: Profile Overview:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatullahshoyon)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-   <table>
-       <tr>
-       <td colspan="2"><img alt="progmamun :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progmamun&langs_count=12&theme=blue-green&layout=compact&hide=html,CSS,SCSS"></td>
-     </tr> 
-     <tr>
-        <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=progmamun&theme=blue-green&hide_border=true"></td>
-     </tr>
-   </table>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sifatullahshoyon&show_icons=true&count_private=true)  
 
----
 
-## <img src ="https://media.giphy.com/media/R4H1oAuFVnEwdsXVoR/giphy.gif" width='50'/>&nbsp;Check Out Best DM<a href="https://passivejournal.com/ref/58/" target="_blank" rel="noopener"> Course</a>!
+<br >
+<h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<p><a href="https://www.buymeacoffee.com/sifatullahshoyon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height" height="50" width="210" alt="sifatullahshoyon" /></a></p>
+
+<br>
+<br>
+<br>
+<br>
+ <h2 align='left'> ✍️ Random Dev Quote</h4>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'>
+
+
+
+
