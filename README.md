@@ -25,17 +25,16 @@
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <img width="55%" height=''400'' align="right" alt="Github" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" />
 
-- 🔭 I’m currently working on [global speak school](http://localhost:5173/)
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [http://sifat.me/](http://sifat.me/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sifat-ullah-shoyon-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.facebook.com/SifatUllahShoyon](https://www.facebook.com/SifatUllahShoyon)
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **freelancersifat627@gmail.com**
+- 📫 How to reach me **sifatullah.shoyon@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sifatullahshoyon/](https://www.linkedin.com/in/sifatullahshoyon/)
 
