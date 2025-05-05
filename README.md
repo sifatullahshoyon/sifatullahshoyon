@@ -1,7 +1,7 @@
 
 
 <a href="https://portfolio-sifatullahshoyon.vercel.app/" target="_blank">
-<img alt="sifat ullah shoyon" src="https://i.postimg.cc/8Pr8qDKy/junayed-noman.png](https://res.cloudinary.com/dowpaz8fo/image/upload/v1746448874/github_cover_img_k78k0a.png" />
+<img alt="sifat ullah shoyon" src="https://res.cloudinary.com/dowpaz8fo/image/upload/v1746448874/github_cover_img_k78k0a.png" />
 </a>
 
 <br>
