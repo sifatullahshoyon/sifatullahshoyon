@@ -14,8 +14,8 @@
 <br>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Sifat</h1>  
-<h3 align="center">A passionate front end developer from 🇧🇩</h3>  
-<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=sifatullahshoyon" alt="sifatullahshoyon" /></p>
+<h3 align="center">A passionate MERN Stack developer from 🇧🇩</h3>  
+<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=sifatullahshoyon&theme=radical&hide_border=false" alt="sifatullahshoyon" /></p>
 
 <br>
 
@@ -23,6 +23,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=sifatullahshoyon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+Nice to meet you! I have a solid foundation in the MERN stack, building dynamic and scalable applications. Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges.
+<br> <br>
 <img width="55%" height=''400'' align="right" alt="Github" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" />
 
 
@@ -36,7 +38,7 @@
 
 - 📫 How to reach me **sifatullah.shoyon@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sifatullahshoyon/](https://www.linkedin.com/in/sifatullahshoyon/)
+- 📄 Know about my experiences [https://portfolio-sifatullahshoyon.vercel.app/blog](https://portfolio-sifatullahshoyon.vercel.app/blog)
 
 - ⚡ Fun fact **I love learning and teaching new technologies.**
 
