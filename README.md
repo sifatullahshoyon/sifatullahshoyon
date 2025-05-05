@@ -102,7 +102,6 @@
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sifatullahshoyon) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sifatullahshoyon) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sifatullahshoyon) 
@@ -114,11 +113,9 @@
 
 <br> 
 
-<h2>🔝 Top Contributed Repo <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
+<h2>🔝 Top Contributed Repo </h2> 
 
 ![](https://github-contributor-stats.vercel.app/api?username=sifatullahshoyon&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
 
 <br>
 
@@ -127,10 +124,6 @@
 
 <br>
 <br>
+<br>
  <h2 align='left'> ✍️ Random Dev Quote</h4>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'>
-<br>
-
-
-
-
