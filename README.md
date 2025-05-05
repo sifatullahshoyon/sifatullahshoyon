@@ -100,10 +100,6 @@
 
 <br>
 
-
-
-
-<br >
 <h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <p><a href="https://www.buymeacoffee.com/sifatullahshoyon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height" height="50" width="210" alt="sifatullahshoyon" /></a></p>
 
@@ -117,17 +113,15 @@
 
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p align="left">
-<a href="https://codepen.io/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://dev.to/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://fb.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://instagram.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://dribbble.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://www.behance.net/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://discord.gg/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-</p>
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sifatullahshoyon) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sifatullahshoyon) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sifatullahshoyon) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sifatullahshoyon) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sifatullahshoyon) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sifatullahshoyon) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sifatullahshoyon) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sifatullah.shoyon@gmail.com)
 
 <br> 
