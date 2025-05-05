@@ -23,8 +23,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=sifatullahshoyon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-👋 Hi, I am a MERN Stack Developer with expertise in Typescript, Redux, Next Js, and Mongoose. My work spans from visually appealing front-end designs to robust and secure back-end systems. focusing on industry standards like JavaScript (ES6+) and RESTful APIs. I write code that is clean, organized, and scalable.
-<be>
+👋 Nice to meet you. I'm a MERN Stack Developer with expertise in TypeScript, Redux, Next.js, and Mongoose. My work spans from visually appealing front-end designs to robust and secure back-end systems. focusing on industry standards like JavaScript (ES6+) and RESTful APIs. I write code that is clean, organized, and scalable.
+<br /> <br/>
 🌱 I started my journey with HTML, CSS, and Bootstrap at the end of 2021. During this time, I worked primarily with raw HTML and CSS.
 
 💡In the middle of 2023, I started learning HTML, CSS, JavaScript (ES6+), React.js, and Tailwind CSS for responsive designs. I explored Firebase Authentication and gained foundational knowledge in Node.js, MongoDB, Express, and JWT.
