@@ -1,10 +1,9 @@
 
 
-<div align="center">
- 
- 
-<img width="100%" height="400" src="https://s9.gifyu.com/images/SZ3xM.gif" alt="cover" />
-</div>
+<a href="https://portfolio-sifatullahshoyon.vercel.app/" target="_blank">
+<img alt="sifat ullah shoyon" src="https://i.postimg.cc/8Pr8qDKy/junayed-noman.png](https://res.cloudinary.com/dowpaz8fo/image/upload/v1746448874/github_cover_img_k78k0a.png" />
+</a>
+
 <br>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=sifatullahshoyon&label=Profile%20views&color=0e75b6&style=flat" alt="sifatullahshoyon" /> </span> 
 <br>
@@ -28,7 +27,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sifat-ullah-shoyon-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-sifatullahshoyon.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.facebook.com/SifatUllahShoyon](https://www.facebook.com/SifatUllahShoyon)
 
