@@ -50,22 +50,6 @@
 
 <br>
   
-<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p align="left">
-<a href="https://codepen.io/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://dev.to/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://fb.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://instagram.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://dribbble.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://www.behance.net/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-<a href="https://discord.gg/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
-</p>
-
-<br> 
-  
 <h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -110,14 +94,13 @@
   <br>
   <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
 
-![Metrics](https://metrics.lecoq.io/sifatullahshoyon?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![](https://github-readme-stats.vercel.app/api?username=sifatullahshoyon&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatullahshoyon&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
-## :man_technologist: Profile Overview:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatullahshoyon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sifatullahshoyon&show_icons=true&count_private=true)  
 
 
 <br >
@@ -133,4 +116,18 @@
 
 
 
+<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<p align="left">
+<a href="https://codepen.io/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://dev.to/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://codesandbox.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://fb.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://instagram.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://dribbble.com/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://www.behance.net/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+<a href="https://discord.gg/sifatullahshoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sifatullahshoyon" height="30" width="40" /></a>
+</p>
 
+<br> 
