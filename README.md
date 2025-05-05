@@ -23,9 +23,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=sifatullahshoyon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-Nice to meet you! I have a solid foundation in the MERN stack, building dynamic and scalable applications. Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges.
+👋 Hi, I am a MERN Stack Developer with expertise in Typescript, Redux, Next Js, and Mongoose. My work spans from visually appealing front-end designs to robust and secure back-end systems. focusing on industry standards like JavaScript (ES6+) and RESTful APIs. I write code that is clean, organized, and scalable.
+
+🌱 I started my journey with HTML, CSS, and Bootstrap at the end of 2021. During this time, I worked primarily with raw HTML and CSS.
+
+💡In the middle of 2023, I started learning HTML, CSS, JavaScript (ES6+), React.js, and Tailwind CSS for responsive designs. I explored Firebase Authentication and gained foundational knowledge in Node.js, MongoDB, Express, and JWT.
+
+🚀 In 2024, I expanded my skills with TypeScript, Mongoose, Next.js, and Redux. With this skill set, I can build strong, secure, and industry-standard applications.
 <br> <br>
-<img width="55%" height=''400'' align="right" alt="Github" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" />
+<img width="55%" height='400' align="right" alt="Github" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" />
 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
@@ -60,8 +66,7 @@ Nice to meet you! I have a solid foundation in the MERN stack, building dynamic 
 
 <br> 
   
-<h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-# 💻 Tech Stack
+<h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
