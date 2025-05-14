@@ -44,7 +44,7 @@
 
 - 📫 How to reach me **sifatullah.shoyon@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-sifatullahshoyon.vercel.app/blog](https://portfolio-sifatullahshoyon.vercel.app/blog)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FoiDLHETnPeHPw5Uwr7xxkO9cPpbAfOb/view?usp=sharing)
 
 - ⚡ Fun fact **I love learning and teaching new technologies.**
 
