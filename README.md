@@ -31,7 +31,7 @@
 
 🚀 In 2024, I expanded my skills with TypeScript, Mongoose, Next.js, and Redux. With this skill set, I can build strong, secure, and industry-standard applications.
 <br> <br>
-<img width="55%" height='400' align="right" alt="Github" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" />
+<img width="55%" height='400' align="right" alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhueDRwNzRqaGlobGExYjU0NTRmemxzd3lwOXo4M2pweHk1YjV2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" />
 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
