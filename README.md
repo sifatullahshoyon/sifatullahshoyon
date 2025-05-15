@@ -53,6 +53,8 @@
 
 ## 🏆 Featured Projects
 
+<br>
+
 | Project        | Description                          | Tech Stack                     | Links       |
 |----------------|--------------------------------------|--------------------------------|-------------|
 | ** Papyrus** | E-commerce for tech stationery       | Typescript, Redux, Mongoose, Expressjs | [Code](https://github.com/rafiferdos/papyrus) • [Demo](https://papyrus-client.vercel.app/) |
