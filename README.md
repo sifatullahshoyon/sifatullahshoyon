@@ -55,9 +55,9 @@
 
 | Project        | Description                          | Tech Stack                     | Links       |
 |----------------|--------------------------------------|--------------------------------|-------------|
-| ** SwapNest** | MERN stack marketplace               | NextJs, MongoDB, Mongoose, Expressjs | [Code](https://github.com/Humayun1318/SwapNest-server) • [Demo](https://swap-nest-server-seven.vercel.app/) |
+| ** Papyrus** | E-commerce for tech stationery       | Typescript, Redux, Mongoose, Expressjs | [Code](https://github.com/rafiferdos/papyrus) • [Demo](https://papyrus-client.vercel.app/) |
 | ** Tech Hiem** | E-commerce for tech gadgets       | Reactjs, NodeJs  | [Code](https://github.com/sifatullahshoyon/tech-heim-client) • [Demo](https://techheim.netlify.app/) |
-| ** Bike Store** | Motorcycle inventory system       | React, Express, JWT | [Code](https://github.com/Humayun1318/bike-store) • [Demo](#) |
+| ** HandToHand** | Motorcycle inventory system       | React, Express, JWT | [Code](https://github.com/sifatullahshoyon/hand_to_hand_client) • [Demo](https://hand-to-hand-frontend.vercel.app/) |
 
 
 <br>
