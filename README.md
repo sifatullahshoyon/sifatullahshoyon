@@ -49,6 +49,18 @@
 - ⚡ Fun fact **I love learning and teaching new technologies.**
 
 <br>
+<br>
+
+## 🏆 Featured Projects
+
+| Project        | Description                          | Tech Stack                     | Links       |
+|----------------|--------------------------------------|--------------------------------|-------------|
+| ** SwapNest** | MERN stack marketplace               | NextJs, MongoDB, Mongoose, Expressjs | [Code](https://github.com/Humayun1318/SwapNest-server) • [Demo](https://swap-nest-server-seven.vercel.app/) |
+| ** Tech Hiem** | E-commerce for tech gadgets       | Reactjs, NodeJs  | [Code](https://github.com/sifatullahshoyon/tech-heim-client) • [Demo](https://techheim.netlify.app/) |
+| ** Bike Store** | Motorcycle inventory system       | React, Express, JWT | [Code](https://github.com/Humayun1318/bike-store) • [Demo](#) |
+
+
+<br>
   
 <h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
